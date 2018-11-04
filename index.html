@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<link rel="stylesheet" href="css/styles.css" type="text/css">
+<script src="js/jquery-3.3.1.js" type="text/javascript"></script>
+<script src="js/scripts.js" type="text/javascript"></script>
+<meta charset="utf-8">
+    <title>pizza</title>
+  </head>
+  <body>
+    <div class="container">
+      <form id="form" >
+        <h2>order a pizza of your choice</h2>
+        <h2>choose toppings</h2>
+        <select  class="form-control" id="toppings">
+          <option value="choose topping"> choose topping</option>
+          <option value="pepperoni ">pepperoni</option>
+          <option value="olives">olives</option>
+          <option value="cheese">cheese</option>
+        </select>
+        <h2>choose crust</h2>
+        <select  class="form-control" id="crust">
+          <option value="choose crust"> choose topping</option>
+          <option value="stuffed crust">stuffed</option>
+          <option value="thin crust">thin</option>
+          <option value="pan crust">pan</option>
+        </select>
+        <h2>choose size</h2>
+        <select class="form-control" id="size">
+          <option value="choose your size">choose your size</option>
+          <option value=12>large</option>
+          <option value="5">small</option>
+          <option value="7">meduim</option>
+        </select>
+        <button id="enterorder" type="submit" name="button">Enter</button>
+      </form>
+      <div id="output">
+
+      </div>
+      <div class="cost">
+        <p>Your total cost is : <span id="prices"></span> dollars</p>
+      </div>
+    </div>
+
+  </body>
+</html>
