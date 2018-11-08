@@ -1,25 +1,34 @@
-{Ryan Leslie}
-_ This webpage takes a pizza order of your choice and returns price, {11/04/18}_
-By Ryan Leslie
-Description
-_{This webpage allows you to pick toppings and size of pizza and returns a price according to what you order.
+# _Ryan Leslie_
 
-Setup/Installation Requirements
-install jquery
-install bootstrap
-copy and paster html, java, and css to your atom _
-_
+#### _Pizza Order application that takes your order, {november 6,2018}_
 
-Known Bugs
-_{There are no Known bugs at this time besides getting site functinality to output the size.
+#### By _**{Ryan Leslie}**_
 
-ryanleslie33@aol.com
-_{If you have any questions about this webpage you can contact me at the email address list above.
+## Description
 
-Technologies Used
-_{I used objects and constructors in javascript using most aspects of object orientated programming.
+_This application allows you to input toppings and a size of pizza that you want and returns your order with the specified price of the pizza_
 
-License
-This software is licensed under the MIT license software agreement.
+## Setup/Installation Requirements
 
-Copyright (c) 2018 {Ryan Leslie - Epicodus}
+* _install bootstrap_
+* _install jquery_
+* _clone repository_
+
+
+## Known Bugs
+
+_Therer are no known bugs at this time_
+
+## Support and contact details
+
+_If you have any issues this this application you can contact me at ryanleslie33@aol.com_
+
+## Technologies Used
+
+_This program uses javascript and jquery_
+
+### License
+
+*This application is licensed undere the MIT software license*
+
+Copyright (c) 2018 **_{Ryan Leslie, Epicodus.inc}_**
