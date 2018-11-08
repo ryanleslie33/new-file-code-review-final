@@ -8,6 +8,13 @@
 
 _This application allows you to input toppings and a size of pizza that you want and returns your order with the specified price of the pizza_
 
+## Specifications
+
+_Input topping_
+_input crust_
+_input size_
+_output topping,crust,size, and price_
+
 ## Setup/Installation Requirements
 
 * _install bootstrap_
