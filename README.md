@@ -10,10 +10,10 @@ _This application allows you to input toppings and a size of pizza that you want
 
 ## Specifications
 
-_Input topping_
-_input crust_
-_input size_
-_output topping,crust,size, and price_
+* _Input topping_
+* _input crust_
+* _input size_
+* _output topping,crust,size, and price_
 
 ## Setup/Installation Requirements
 
